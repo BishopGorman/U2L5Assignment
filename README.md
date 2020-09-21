@@ -10,7 +10,7 @@ Then write a program in the `main` method that asks the user to enter the sales 
 Create a `Construction` object to compute the cost of the lumber and windows. Use $8 for the cost of lumber. Use $11 for the cost of windows.
 Print the total cost. Then use the method to compute the tax and print out the grand total including tax.
  
-### Example output
+### A sample program run should match exactly as below:
 ```
 Enter the sales tax rate: 
 .08
