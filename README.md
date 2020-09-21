@@ -4,7 +4,9 @@ Homework Problems for CSAwesome Unit 2
 ## Construction Costs
 ### Statement
 The `Construction` class is completed for you and you will use it as a client, but you may want to look at it to make sure you understand how to use it.
+
 Then write a program in the `main` method that asks the user to enter the sales tax rate as a decimal, the number of boards needed, and the number of windows needed.
+
 Create a `Construction` object to compute the cost of the lumber and windows. Use $8 for the cost of lumber. Use $11 for the cost of windows.
 Print the total cost. Then use the method to compute the tax and print out the grand total including tax.
  
