@@ -1,5 +1,5 @@
-javac src/main/java/SecondsPastMidnight.java
-javac src/main/java/AnalogClock.java
-javac src/main/java/StudentDesks.java
-javac src/main/java/Timestamps.java
-java -cp src/main/java/ SecondsPastMidnight
+javac src/main/java/Construction.java
+javac src/main/java/ConstructionTester.java
+javac src/main/java/HowFarAway.java
+javac src/main/java/GeoLocation.java
+java -cp src/main/java/ ConstructionTester
