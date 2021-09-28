@@ -30,10 +30,10 @@ The `GeoLocation` class is completed for you and you will use it as a client, bu
 
 Then write a program in the `HowFarAway` class's `main` method that asks the user for four numbers.
 
-starting latitude
-starting longitude
-ending latitude
-ending longitude
+1. starting latitude
+2. starting longitude
+3. ending latitude
+4. ending longitude
 
 Then, using the `GeoLocation` class, compute the distance in miles between the two locations.
 A sample program run should match exactly as below:
