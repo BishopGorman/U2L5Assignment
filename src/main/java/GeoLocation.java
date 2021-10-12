@@ -6,7 +6,7 @@
  * This implementation is based off of the example from Stuart Reges at 
  * the University of Washington.
  */
-
+package main.java;
 public class GeoLocation 
 {
     // Earth radius in miles
